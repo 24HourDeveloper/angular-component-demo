@@ -1,0 +1,11 @@
+.uc-card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 200px;
+    height: auto;
+    padding: 8px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow: 2px 4px 5px #aaaaaa;
+}
